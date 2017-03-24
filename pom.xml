@@ -10,7 +10,7 @@
     <name>autocomplete-springboot</name>
     <description>Demo project for Spring Boot</description>
 
-    <!--<parent>                              <!-- Get parameters and allow bulk testing 
+    <!--<parent>                              //Get parameters and allow bulk testing 
         <artifactId>whitley-best-buy-autocomplete</artifactId>
         <groupId>com.feature.autocomplete</groupId>
         <version>1.0.0</version>
