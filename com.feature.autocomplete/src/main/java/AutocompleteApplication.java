@@ -24,6 +24,6 @@ public class AutocompleteApplication {
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(HelloworldApplication.class, args);
+        SpringApplication.run(AutocompleteApplication.class, args);
     }
 }
