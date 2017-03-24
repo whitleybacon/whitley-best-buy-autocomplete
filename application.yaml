@@ -10,5 +10,10 @@ handlers:
 - url: /.*
   script: this field is required, but ignored
 
+# [START env_variables]
+env_variables:
+  BUCKET_NAME: whitley-best-buy-autocomplete-bucket
+# [END env_variables]
+
 manual_scaling:
   instances: 1
