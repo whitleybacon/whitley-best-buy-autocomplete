@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class AutocompleteApplication {
     @RequestMapping("/")
     public String home() {
-        return "Hello World!";
+        return "Whitley's Best Buy Autocomplete Feature";
     }
 
     /**
